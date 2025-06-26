@@ -79,4 +79,34 @@
   </hint>
 </exercise>
 
+<exercise>  <!--element-->
+  <title>My best book I have ever made</title>
+  <introduction> 
+    <p> <!--paragraph-->
+      Suppose <m>A</m> be a <m>4\times10</m> matrix
+    </p>
+  </introduction>
+ 
+ 
+  <task label="part-a-of-our-task"> <!--label is a attribute -->
+    <statement>
+      <p>
+        in the box below, enter the number of rows of the matrix A <m>A</m>
+      </p>
+    </statement>
+    <response />
+  </task>
+
+  <task>
+    <statement>
+      <p>
+        In the box below, please enter the number of columns of <m>A</m>,
+      </p>
+    </statement>
+    <response />
+  </task>
+<
+  </exercise>
+
+
 </section>
